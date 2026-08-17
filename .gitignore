@@ -1,0 +1,24 @@
+# Python bytecode / cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+/planner_env
+
+# video files
+*.mp4
+
+# data
+data/
+
+# image files
+*.png
+*.jpg
+*.jpeg
+
+# outputs only
+outputs/*.onnx
+outputs/*.pth
+outputs/*.pt
+outputs/*.mp4
