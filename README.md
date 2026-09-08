@@ -125,7 +125,7 @@ Cameras/LiDAR → Perception Servers → Fusion Engine → [HALO Planner] → HM
 - [NAVSIM](https://arxiv.org/abs/2406.15349) — evaluation benchmark (NeurIPS 2024)
 
 ## License
+GNU- Public License 
 
-Proprietary — Halo Drive Ltd. All rights reserved. 2026
 ## Author -
-@sudoashwin
+@vloneashwin
